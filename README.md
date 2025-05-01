@@ -2,6 +2,24 @@
 
 A full-stack web application for managing student team members, built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+*Dark theme with orange accents and modern UI*
+
+### Add Member Page
+![Add Member](screenshots/add-member.png)
+*Comprehensive form with image upload preview*
+
+### View Members Page
+![View Members](screenshots/view-members.png)
+*Grid layout showing all team members*
+
+### Member Details Page
+![Member Details](screenshots/member-details.png)
+*Detailed view of member information*
+
 ## 🚀 Features
 
 - **Member Management:**
